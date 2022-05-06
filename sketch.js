@@ -1,6 +1,6 @@
 <body onload="WurstClient()">
 <script>
 function WurstClient() {
-  alert("You Win!");
+  alert("You Won!");
 }
 </script>
