@@ -1,3 +1,6 @@
-
-if(0=0){
-window.alert("You won!");}
+<body onload="WurstClient()">
+<script>
+function WurstClient() {
+  alert("You Win!");
+}
+</script>
